@@ -2,8 +2,6 @@
 
 An interactive document-based Q&A web application built with **Streamlit**, **LangChain**, **Groq's LLaMA3**, and **FAISS vector store**. Upload your PDF documents and ask questions — get accurate answers using Retrieval-Augmented Generation (RAG).
 
-![Gemma App Demo](images/demo.png) <!-- Replace with your actual image path -->
-
 ---
 
 ## 🚀 Features
@@ -21,13 +19,13 @@ An interactive document-based Q&A web application built with **Streamlit**, **La
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Screenshot](images/home.png)
+![Home Screenshot](Screenshot (17).png)
 
 ### 📚 Document Embedding
-![Embedding Screenshot](images/embedding.png)
+![Embedding Screenshot](Screenshot (18).png)
 
 ### ❓ Ask Questions
-![QA Screenshot](images/qa.png)
+![QA Screenshot](Screenshot (19).png)
 
 ---
 
