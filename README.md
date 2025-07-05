@@ -19,13 +19,13 @@ An interactive document-based Q&A web application built with **Streamlit**, **La
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Screenshot](Screenshot (17).png)
+![Screenshot (17)](https://github.com/user-attachments/assets/ce9debab-17c5-4081-8929-218f2c09ee89)
 
 ### 📚 Document Embedding
-![Embedding Screenshot](Screenshot (18).png)
+![Screenshot (18)](https://github.com/user-attachments/assets/2d1cebc0-cba8-4204-a1a9-df5f2c8f9531)
 
 ### ❓ Ask Questions
-![QA Screenshot](Screenshot (19).png)
+![Screenshot (19)](https://github.com/user-attachments/assets/3f37e277-c3c3-4cc2-a812-c695fec6e869)
 
 ---
 
