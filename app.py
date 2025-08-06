@@ -71,9 +71,10 @@ if query and "vectors" in st.session_state:
         docs = retriever.get_relevant_documents(query)
         for doc in docs:
             st.write(doc.page_content)
-            st.write("---")
+            st.write("----")
 else:
     if query:
         st.warning("⚠️ Please embed documents first by clicking the button above.")
+
 
 
