@@ -17,7 +17,7 @@ load_dotenv()
 groq_api_key = os.getenv('GROQ_API_KEY')
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 
-st.title("📄 Gemma Model RAG Document Q&A")
+st.title("📄 Gemma Model RAG Document Q&A Model")
 
 # Initialize LLM
 llm = ChatGroq(
@@ -75,4 +75,5 @@ if query and "vectors" in st.session_state:
 else:
     if query:
         st.warning("⚠️ Please embed documents first by clicking the button above.")
+
 
