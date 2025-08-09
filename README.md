@@ -4,7 +4,7 @@ An interactive document-based Q&A web application built with **Streamlit**, **La
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 
 - 📁 Upload and process PDF documents
 - ✂️ Chunk and embed document text using Google GenAI embeddings
