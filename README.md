@@ -214,7 +214,7 @@ Your app will be live on a public URL!
 
 ---
 
-## 🧠 What You'll Learn
+## 🧠 What You'll Learn :
 
 * ✅ How to build Retrieval-Augmented Generation (RAG) pipelines
 * ✅ How to connect LangChain with Groq and Google AI
@@ -223,7 +223,7 @@ Your app will be live on a public URL!
 
 ---
 
-## 🙌 Credits
+## 🙌 Credits :
 
 * [LangChain](https://www.langchain.com/)
 * [Groq API](https://console.groq.com/)
