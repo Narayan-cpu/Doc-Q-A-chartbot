@@ -16,7 +16,7 @@ An interactive document-based Q&A web application built with **Streamlit**, **La
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots :
 
 ### 🏠 Home Page
 ![Screenshot (17)](https://github.com/user-attachments/assets/ce9debab-17c5-4081-8929-218f2c09ee89)
