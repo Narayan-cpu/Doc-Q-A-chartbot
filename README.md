@@ -1,4 +1,4 @@
-# 📄 Gemma Model Document Q&A
+# 📄 Gemma RAG Model Document Q&A
 
 An interactive document-based Q&A web application built with **Streamlit**, **LangChain**, **Groq's LLaMA3**, and **FAISS vector store**. Upload your PDF documents and ask questions — get accurate answers using Retrieval-Augmented Generation (RAG).
 
