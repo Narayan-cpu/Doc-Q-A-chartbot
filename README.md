@@ -43,13 +43,13 @@ An interactive document-based Q&A web application built with **Streamlit**, **La
 
 ---
 
-## 🛠️ Setup Instructions
+## 🛠️ Setup Instructions :
 
 Follow these steps to set up and run the application on your local machine.
 
 ---
 
-### 🔐 1. Clone the Repository
+### 🔐 1. Clone the Repository :
 
 ```bash
 git clone https://github.com/Narayan-CPU/Doc-Q-A-chartbot
@@ -60,7 +60,7 @@ This will download the full project to your local machine.
 
 ---
 
-### 🛠️ 2. Create a Virtual Environment (Recommended)
+### 🛠️ 2. Create a Virtual Environment (Recommended) :
 
 ```bash
 python -m venv venv
@@ -76,7 +76,7 @@ A virtual environment keeps your project’s dependencies isolated.
 
 ---
 
-### 📦 3. Install Dependencies
+### 📦 3. Install Dependencies :
 
 Install all required Python libraries using:
 
