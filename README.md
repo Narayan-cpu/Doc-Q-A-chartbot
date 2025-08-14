@@ -237,5 +237,3 @@ Your app will be live on a public URL!
 
 Developed with ❤️ by [Narayan Naik](https://github.com/Narayan-CPU)
 If you found this helpful, feel free to ⭐ the repo and share feedback!
-
-```
